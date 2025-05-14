@@ -1,0 +1,42 @@
+{
+  "G002": {
+    "audio_tag": "RWC_AUDIO_G002",
+    "segment_start": 69.949951171875,
+    "segment_end": 99.97509765625
+  },
+  "G010": {
+    "audio_tag": "RWC_AUDIO_G010",
+    "segment_start": 99.9794921875,
+    "segment_end": 129.9794921875
+  },
+  "G068": {
+    "audio_tag": "RWC_AUDIO_G068",
+    "segment_start": 29.949951171875,
+    "segment_end": 59.949951171875
+  },
+  "P012": {
+    "audio_tag": "RWC_AUDIO_P012",
+    "segment_start": 69.931884765625,
+    "segment_end": 99.931884765625
+  },
+  "P038": {
+    "audio_tag": "RWC_AUDIO_P038",
+    "segment_start": 49.93408203125,
+    "segment_end": 79.93408203125
+  },
+  "P060": {
+    "audio_tag": "RWC_AUDIO_P060",
+    "segment_start": 89.93408203125,
+    "segment_end": 119.93408203125
+  },
+  "P070": {
+    "audio_tag": "RWC_AUDIO_P070",
+    "segment_start": 89.918212890625,
+    "segment_end": 120.449951171875
+  },
+  "P079": {
+    "audio_tag": "RWC_AUDIO_P079",
+    "segment_start": 0.0,
+    "segment_end": 29.931884765625
+  }
+}
